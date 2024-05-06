@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1482329590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\dhery\OneDrive\Área de Trabalho\algoritimo-pascal\lib\i386-win32&quot; &quot;-FuC:\Users\dhery\OneDrive\Área de Trabalho\algoritimo-pascal\&quot; &quot;-FUC:\Users\dhery\OneDrive\Área de Trabalho\algoritimo-pascal\lib\i386-win32\&quot; &quot;-FEC:\Users\dhery\OneDrive\Área de Trabalho\algoritimo-pascal\&quot; &quot;-oC:\Users\dhery\OneDrive\Área de Trabalho\algoritimo-pascal\cap1.exe&quot; cap1.lpr"/>
+</CONFIG>

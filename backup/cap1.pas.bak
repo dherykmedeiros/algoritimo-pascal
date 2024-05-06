@@ -1,0 +1,16 @@
+unit cap1;
+
+{$mode objfpc}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils;
+
+implementation
+program cap1;
+begin
+  writeln('Hellow Word');
+
+end.
+
