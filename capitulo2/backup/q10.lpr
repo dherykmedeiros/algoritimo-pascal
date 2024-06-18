@@ -5,7 +5,7 @@ begin
   write('Digite o tamanho do raio: ');
   readln(raio);
   pi:= 3.1415;
-  area:= pi*(raio*raio);
+  area:= pi*sqr(raio);
   write('O valora da area e: ' , area:0:2);
 end.
 
